@@ -104,7 +104,7 @@ class _DetailScreenState extends State<DetailScreen> {
                             ),
                             SizedBox(height: 10),
                             Text(
-                              'Book Rationg: ' + widget.book.rating,
+                              'Book Rating: ' + widget.book.rating,
                               style: TextStyle(
                                   fontSize: 16, fontWeight: FontWeight.bold),
                             ),
